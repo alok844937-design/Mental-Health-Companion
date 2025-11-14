@@ -25,7 +25,7 @@ A real-time mental health support platform that uses *Google Gemini AI* to detec
 ## 🚀 Quick Start
 
 ### Prerequisites
-• Python 3.8+
+• Python 3.10+
 • pip (Python package manager)
 • Google Gemini API Key (Free from [makersuite.google.com](https://makersuite.google.com/app/apikeys))
 
